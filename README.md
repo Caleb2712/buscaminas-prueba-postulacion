@@ -1,22 +1,26 @@
 # Buscaminas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Código generado por Caleb Rojas Andrade para postular a puesto de trabajo en EY.
 
-## Development server
+## Instalación
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Correr código en consola `npm install`.
 
-## Code scaffolding
+## Requisitos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Contar con Angular instalado en el pc.
+
+## Servidor de desarrollo
+
+Correr código `ng serve`. En el navegador de preferencia ingresar la siguiente dirección: `http://localhost:4200/`. Con el servidor arriba ya puede empezar a jugar.
+
+## Running unit tests
+
+Correr código `ng test` para ejecutar el tests via [Karma](https://karma-runner.github.io).
 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
